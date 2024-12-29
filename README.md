@@ -1,4 +1,4 @@
-# Ultrasonic Obstacle Avoidance for Autonomous Robots、
+# Ultrasonic Obstacle Avoidance for Autonomous Robots
 
 This repository contains the implementation and resources for the **Obstacle Avoidance Robot**, developed as part of **Lab 7: Obstacle Avoidance Experiment** from the **Intelligent Robotics Laboratory** course at **National Yang Ming Chiao Tung University (NYCU)**.
 
