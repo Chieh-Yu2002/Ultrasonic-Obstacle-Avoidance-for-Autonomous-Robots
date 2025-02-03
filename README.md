@@ -74,8 +74,8 @@ The robot was built with the following components:
 
 2. **Target Navigation**:
    - The robot calculates its position using odometry formulas:
-     - Position: $ x_k = x_{k-1} + dS_k \cos\left(\frac{\theta_k + \theta_{k-1}}{2}\right $
-     - Heading: $ \theta_k = \theta_{k-1} + d\theta_k $
+     - Position: `x_k = x_{k-1} + dS_k \cos((\theta_k + \theta_{k-1}) / 2)`
+     - Heading: `θ_k = θ_{k-1} + dθ_k`
    - Dynamically adjusts speed and angle to approach the target.
 
 3. **Proportional (P) Control**:
